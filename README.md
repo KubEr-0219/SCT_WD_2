@@ -13,15 +13,6 @@ This project is a **Stopwatch Web Application** developed as part of **Task 02**
 - JavaScript (ES6)
 - CSS3 (Glassmorphism + Retro UI)
 
-## 📂 Project Structure
-src/
-├── components/
-│ ├── Stopwatch.js
-│ ├── Stopwatch.css
-├── App.js
-└── index.js
-
-
 ## 📌 Learning Outcomes
 - React state management using hooks
 - Handling intervals and stopwatch logic
