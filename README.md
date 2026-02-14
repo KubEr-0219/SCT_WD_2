@@ -19,6 +19,7 @@ This project is a **Stopwatch Web Application** developed as part of **Task 02**
 - Implementing lap tracking dynamically
 - Creating modern UI with CSS effects
 
+## 🚀 Live Demo: https://KubEr-0219.github.io/SCT_WD_2
 ---
 
 **Task completed as part of SkillCraft Technology Internship**
